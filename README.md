@@ -8,3 +8,5 @@ Install Qt:
 `sudo apt-get install qtcreator`
 
 `sudo apt-get install qt5-default`
+
+https://github.com/ollewelin/Text-file-Line-eraser/blob/master/After%20lines%20are%20erased.png
