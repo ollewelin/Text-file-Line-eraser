@@ -10,7 +10,9 @@ Install Qt:
 `sudo apt-get install qt5-default`
 
 Extract repository
+
 Start QT-creator
+
 File -> Open project 
 
 `sorter.pro`
