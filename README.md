@@ -3,6 +3,8 @@ This tool is to erase lines in textfiles with the users setting of a repetly ord
 
 Install Qt:
 
+`sudo apt-get update`
+
 `sudo apt-get install build-essential`
 
 `sudo apt-get install qtcreator`
