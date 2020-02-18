@@ -11,7 +11,7 @@ Install Qt:
 
 `sudo apt-get install qt5-default`
 
-Extract repository
+Extract this repository
 
 Start QT-creator
 
