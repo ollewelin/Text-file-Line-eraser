@@ -23,4 +23,9 @@ Build -> Build All
 
 Build -> Run
 
+Example below:
+Input before modify
+https://github.com/ollewelin/Text-file-Line-eraser/blob/master/Open%20a%20text%20file.png
+
+Output after modify:
 https://github.com/ollewelin/Text-file-Line-eraser/blob/master/After%20lines%20are%20erased.png
