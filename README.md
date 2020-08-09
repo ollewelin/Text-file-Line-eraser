@@ -1,13 +1,13 @@
-## Text-file-Line-eraser
+# Text-file-Line-eraser
 This tool is to erase lines in textfiles with the users setting of a repetly order
 
-# Before text modify:
+### Before text modify:
 ![](Open%20a%20text%20file.png)
 
-# After text modify:
+### After text modify:
 ![](After%20lines%20are%20erased.png)
 
-Install Qt:
+### Install Qt:
 
 `sudo apt-get update`
 
@@ -17,7 +17,7 @@ Install Qt:
 
 `sudo apt-get install qt5-default`
 
-Extract this repository
+### Extract this repository
 
 Start QT-creator
 
